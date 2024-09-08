@@ -3,7 +3,7 @@ I am a passionate and experienced Full Stack Developer with **over 20 years of e
 
 I am deeply committed to a simplistic 🚀 **MVP (Minimum Viable Product) approach**, ensuring efficient, streamlined development that meets core business needs without unnecessary complexity. With extensive experience in team leadership and business management, I bring a strong blend of technical skill and business insight to every project.
 
-## 👨🏻‍💻 Some of my TechStack:  
+## 👨🏻‍💻 My common tech stack:  
 
 |  Experiences arranged in categories |              | 
 | ----------------------------------- |------------- |
