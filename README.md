@@ -22,10 +22,10 @@ I also know my way around Photoshop ✨
 
 ## 🔜 Next on my Roadmap
 
-|  Tech               | Reason                        | 
-| ------------------- |------------------------------ |
-| React               | For mobile applicaitons 
-| Electron            | For cross platform development
+| Tech                 | Reason                         |
+| :------------------- |:------------------------------ |
+| React                | For mobile applicaitons 
+| Electron             | For cross platform development
 
 ___
 
