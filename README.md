@@ -15,7 +15,7 @@ I am deeply committed to a simplistic 🚀 **MVP (Minimum Viable Product) approa
 | **DevOps/Infrastructure**           | Docker, Portainer       
 | **Frameworks**                      | Laravel, Symfony👶🏻, CodeIgniter       
 | **Content Management Systems**      | WordPress, Magento👎, Joomla, Drupal, PrestaShop, Mambo 🪦, PHPNuke 🪦        
-| **Libraries**                       | jQuery🔥, TailwindCSS, htmx🦄, Bootstrap      
+| **Libraries**                       | jQuery🔥, TailwindCSS, htmx🦄, BootstrapCSS      
 | **Services**                        | AWS, Google, Cloudflare       
 
 I also know my way around Photoshop ✨
