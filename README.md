@@ -1,8 +1,9 @@
-## 👋 Welcome to My GitHub Profile
+## 👋 Hey there,
 I am a passionate and experienced Full Stack Developer with over 20 years of expertise in building innovative and scalable web applications. My focus lies in utilizing cutting-edge AI tools like GPT (OpenAI), Claude, Gemini, DALL·E, and MidJourney to deliver intelligent solutions for businesses, with a particular emphasis on crafting Software as a Service (SaaS) products.
 
-I am deeply committed to a simplistic Minimum Viable Product (MVP) approach, ensuring efficient, streamlined development that meets core business needs without unnecessary complexity. With extensive experience in team leadership and business management, I bring a strong blend of technical skill and business insight to every project.
+I am deeply committed to a simplistic MVP (Minimum Viable Product) approach, ensuring efficient, streamlined development that meets core business needs without unnecessary complexity. With extensive experience in team leadership and business management, I bring a strong blend of technical skill and business insight to every project.
 
+The contributions seen on my profile ar **only for my personal projects**. For my work I use a self-hosted GitLab service.
 <!--
 **Ricu23/ricu23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
