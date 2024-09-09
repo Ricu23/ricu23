@@ -24,7 +24,7 @@ I also know my way around Photoshop ✨
 
 | Tech                 | Reason                         |
 | :------------------- |:------------------------------ |
-| React                | For mobile applicaitons 
+| React                | For mobile applications 
 | Electron             | For cross platform development
 
 ___
