@@ -5,7 +5,7 @@ These days, my focus lies in utilizing cutting-edge AI tools like GPT (OpenAI), 
 
 I am deeply committed to a simplistic 🚀 **MVP (Minimum Viable Product) approach**, ensuring efficient, streamlined development that meets core business needs without unnecessary complexity. With extensive experience in team leadership and business management, I bring a strong blend of technical skill and business insight to every project.
 
-## 👨🏻‍💻 My common tech stack:  
+## 👨🏻‍💻 My tech stack:  
 
 |  Experiences arranged in categories |              | 
 | ----------------------------------- |------------- |
