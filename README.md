@@ -9,10 +9,10 @@ I am deeply committed to a simplistic 🚀 **MVP (Minimum Viable Product) approa
 
 |  Experiences arranged in categories |              | 
 | ----------------------------------- |------------- |
-| **Programing languages**            | PHP (with Swoole)🔥, JavaScript, HTML, CSS  
+| **Programming languages**            | PHP (with Swoole)🔥, JavaScript, HTML, CSS  
 | **Databases**                       | MySQL, Redis, MongoDB, PostgreSQL      
 | **Web Servers**                     | Nginx, Apache      
-| **DevOps/Infrastructure**           | Docker, Portainer       
+| **DevOps/Infrastructure**           | Git, Docker, Portainer       
 | **Frameworks**                      | Laravel, Symfony👶🏻, CodeIgniter       
 | **Content Management Systems**      | WordPress, Magento👎, Joomla, Drupal, PrestaShop, Mambo 🪦, PHPNuke 🪦        
 | **Libraries**                       | jQuery🔥, TailwindCSS, htmx🦄, BootstrapCSS      
