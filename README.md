@@ -11,10 +11,10 @@ I am deeply committed to a simplistic 🚀 **MVP (Minimum Viable Product) approa
 | ----------------------------------- |------------- |
 | **Programming languages**            | PHP (with Swoole)🔥, JavaScript, HTML, CSS  
 | **Databases**                       | MySQL, Redis, MongoDB, PostgreSQL      
-| **Web Servers**                     | Nginx, Apache      
-| **DevOps/Infrastructure**           | Git, Docker, Portainer       
+| **Servers & Load Balancers**        | Nginx, Traefik, Apache      
+| **Infrastructure & Tools**          | Git, Docker, Portainer       
 | **Frameworks**                      | Laravel, Symfony👶🏻, CodeIgniter       
-| **Content Management Systems**      | WordPress, Magento👎, Joomla, Drupal, PrestaShop, Mambo 🪦, PHPNuke 🪦        
+| **Content Management Systems**      | WordPress, Magento👎, Joomla, Drupal, PrestaShop, phpBB, vBulletin, IP.Board, Mambo 🪦, PHPNuke 🪦      
 | **Libraries**                       | jQuery🔥, TailwindCSS, htmx🦄, BootstrapCSS      
 | **Services**                        | AWS, Google, Cloudflare       
 
