@@ -27,10 +27,6 @@ I also know my way around Photoshop ✨
 | React                | For mobile applications 
 | Electron             | For cross platform development
 
-___
-
-> The contributions seen on my GitHub profile are **only for my personal projects**.    
-> For my work I use a self-hosted GitLab service.
 
 
 
